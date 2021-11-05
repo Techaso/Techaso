@@ -13,17 +13,17 @@ I am a full-stack software developer and musician. I love learning from everyone
 <!--
 <img align="right" alt="GIF" src="coding.gif" width="408" height="318" />
 -->
-**Talking about Personal Stuffs:**
+**Some Personal Info:**
 
-- 👨🏻‍💻  &nbsp; I’m currently learning Data Structures and Algorithms on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/rkkasotiya/profile);
-- 👨‍🔧&nbsp; I love to understand how everything around us, is working technically. So, I'm also known as Techaso - Technical Kasotiya.
+- 👨🏻‍💻&nbsp; I’m currently learning Data Structures and Algorithms on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/rkkasotiya/profile);
+- 👨‍🔧&nbsp; I love to understand how everything around us, is working technically. So, I'm also known as Techaso - Technical Kasotiya;
 - 🙋🏻‍♂️&nbsp; My MBTI & Enneagram type: INFP-A, 2w3;
-- 👨🏻‍🎓&nbsp; I value experiences more than knowledge.
-- 💬&nbsp; Ask me about anything, I am happy to help;
-- 📫&nbsp; How to reach me: rkkasotiya@gmail.com;
+- 👨🏻‍🎓&nbsp; I value experiences more than knowledge;
+- 💬&nbsp; Ask me about anything, I'll be happy to help;
+- 📫&nbsp; Best way to reach me: rkkasotiya@gmail.com;
 </br>
 
-📈  **My GitHub Stats:**
+📈&nbsp; **My GitHub Stats:**
 
 
 <p style ="width:800px; height:130px;">&nbsp;&nbsp;
