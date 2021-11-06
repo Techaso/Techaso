@@ -8,7 +8,7 @@
 -->
 ### Glad to see you here!
 
-I am a full-stack software developer and musician. I love learning from everyone and everything, and I'm fond of reading, writing, and traveling.<br />
+I am a full-stack software developer and musician who wholeheartedly learn from everyone and everything. I quench my thirst for knowledge and experiences by reading, writing, traveling, watching productive content and trying different approaches in daily life.<br />
 <img align="right" width="300" height="300" src="programmer.png" margin=50px;>
 <!--
 <img align="right" alt="GIF" src="coding.gif" width="408" height="318" />
@@ -16,7 +16,7 @@ I am a full-stack software developer and musician. I love learning from everyone
 **Some Personal Info:**
 
 - 👨🏻‍💻&nbsp; I’m currently learning Data Structures and Algorithms on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/rkkasotiya/profile);
-- 👨‍🔧&nbsp; I love to understand how everything around us, is working technically. So, I'm also known as Techaso - Technical Kasotiya;
+- 👨‍🔧&nbsp; I love to understand how everything around us is working technically. So, I'm also known as Techaso i.e. Technical Kasotiya;
 - 🙋🏻‍♂️&nbsp; My MBTI & Enneagram type: INFP-A, 2w3;
 - 👨🏻‍🎓&nbsp; I value experiences more than knowledge;
 - 💬&nbsp; Ask me about anything, I'll be happy to help;
