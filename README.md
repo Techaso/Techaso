@@ -8,19 +8,22 @@
 -->
 ### Glad to see you here!
 
-I am a full-stack software developer and musician who wholeheartedly learn from everyone and everything. I quench my thirst for knowledge and experiences by reading, writing, traveling, watching productive content and trying different approaches in daily life.<br />
+I am a full-stack software developer and musician who wholeheartedly learn from every living and non-living thing. I quench my thirst for knowledge and experience by reading, writing, traveling, watching effective content, and trying different approaches in daily life.<br />
 <img align="right" width="300" height="300" src="programmer.png" margin=50px;>
 <!--
 <img align="right" alt="GIF" src="coding.gif" width="408" height="318" />
 -->
 **Some Personal Info:**
-
+<!--
 - 👨🏻‍💻&nbsp; I’m currently learning Data Structures and Algorithms on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/rkkasotiya/profile);
+-->
 - 👨‍🔧&nbsp; I love to understand how everything around us is working technically. So, I'm also known as Techaso i.e. Technical Kasotiya;
 - 🙋🏻‍♂️&nbsp; My MBTI & Enneagram type: INFP-A, 2w3;
 - 👨🏻‍🎓&nbsp; I value experiences more than knowledge;
 - 💬&nbsp; Ask me about anything, I'll be happy to help;
 - 📫&nbsp; Best way to reach me: rkkasotiya@gmail.com;
+- 📝&nbsp; [Resume](Ramesh_Kasotiya_Resume.pdf) [7th Nov, 2021];
+</br>
 </br>
 
 📈&nbsp; **My GitHub Stats:**
@@ -28,6 +31,6 @@ I am a full-stack software developer and musician who wholeheartedly learn from 
 
 <p style ="width:800px; height:130px;">&nbsp;&nbsp;
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Techaso&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techaso&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&hide=css,html&langs_count=10"/>
 </p>
