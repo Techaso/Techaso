@@ -26,6 +26,17 @@ I am a full-stack software developer and musician who wholeheartedly learn from 
 </br>
 </br>
 
+## Projects
+1. **Faculty-Leave-Application-Portal** [[CODE]](https://github.com/Techaso/FLAP)
+2. **Weather-App**  [[LIVE]](https://techaso.github.io/Weather-App)  [[CODE]](https://github.com/Techaso/Weather-App)
+3. **BeatBox-App**  [[LIVE]](https://techaso.github.io/BeatBox-App)  [[CODE]](https://github.com/Techaso/BeatBox-App)
+4. **Text-Editor**  [[LIVE]](https://techaso.github.io/Text-Editor)  [[CODE]](https://github.com/Techaso/Text-Editor)
+5. **Guess-The-Number-Game**  [[LIVE]](https://techaso.github.io/Guess-The-Number-Game)  [[CODE]](https://github.com/Techaso/Guess-The-Number-Game)
+6. **Research-Conclave**  [[LIVE]](https://techaso.github.io/Research-Conclave)  [[CODE]](https://github.com/Techaso/Research-Conclave)
+7. **Student-Affairs**  [[LIVE]](https://techaso.github.io/Student-Affairs)  [[CODE]](https://github.com/Techaso/Student-Affairs)
+
+<br>
+
 📈&nbsp; **My GitHub Stats:**
 
 
