@@ -8,7 +8,7 @@
 -->
 ### Glad to see you here!
 
-I am a full-stack software developer and musician who wholeheartedly learn from every living and non-living thing. I quench my thirst for knowledge and experience by reading, writing, traveling, watching effective content, and trying different approaches in daily life.<br />
+I am a full-stack software developer and musician who wholeheartedly learns from every living and non-living thing. I quench my thirst for knowledge and experience by reading, writing, traveling, watching effective content, and trying different approaches in daily life.<br />
 <img align="right" width="300" height="300" src="programmer.png" margin=50px;>
 <!--
 <img align="right" alt="GIF" src="coding.gif" width="408" height="318" />
