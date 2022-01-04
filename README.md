@@ -22,12 +22,12 @@ I am a full-stack software developer and musician who wholeheartedly learns from
 - 👨🏻‍🎓&nbsp; I value experiences more than knowledge;
 - 💬&nbsp; Ask me about anything, I'll be happy to help;
 - 📫&nbsp; Best way to reach me: rkkasotiya@gmail.com;
-- 📝&nbsp; [Resume](Ramesh_Kasotiya_Resume.pdf) [Dec 3rd, 2021];
+- 📝&nbsp; [Resume](Ramesh_Kasotiya_Resume.pdf) [Jan 4th, 2022];
 </br>
 </br>
 
 ## Projects
-1. **Faculty-Leave-Application-Portal** [[CODE]](https://github.com/Techaso/FLAP)
+1. **Faculty-Leave-Application-Portal** [[LIVE]](https://flap-techaso.000webhostapp.com)  [[CODE]](https://github.com/Techaso/FLAP)
 2. **Weather-App**  [[LIVE]](https://techaso.github.io/Weather-App)  [[CODE]](https://github.com/Techaso/Weather-App)
 3. **BeatBox-App**  [[LIVE]](https://techaso.github.io/BeatBox-App)  [[CODE]](https://github.com/Techaso/BeatBox-App)
 4. **Text-Editor**  [[LIVE]](https://techaso.github.io/Text-Editor)  [[CODE]](https://github.com/Techaso/Text-Editor)
