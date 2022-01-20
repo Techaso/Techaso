@@ -18,6 +18,7 @@ I am a full-stack software developer and musician who wholeheartedly learns from
 - 👨🏻‍💻&nbsp; I’m currently learning Data Structures and Algorithms on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/rkkasotiya/profile);
 -->
 - 👨‍🔧&nbsp; I love to understand how everything around us is working technically. So, I'm also known as Techaso i.e. Technical Kasotiya;
+- 💬&nbsp; I know English, Hindi, Rajasthani, and Dutch (beginner);
 - 🙋🏻‍♂️&nbsp; My MBTI & Enneagram type: INFP-A, 2w3;
 - 👨🏻‍🎓&nbsp; I value experiences more than knowledge;
 - 💬&nbsp; Ask me about anything, I'll be happy to help;
@@ -28,12 +29,13 @@ I am a full-stack software developer and musician who wholeheartedly learns from
 
 ## Projects
 1. **Faculty-Leave-Application-Portal** [[LIVE]](https://flap-techaso.000webhostapp.com)  [[CODE]](https://github.com/Techaso/FLAP)
-2. **Weather-App**  [[LIVE]](https://techaso.github.io/Weather-App)  [[CODE]](https://github.com/Techaso/Weather-App)
-3. **BeatBox-App**  [[LIVE]](https://techaso.github.io/BeatBox-App)  [[CODE]](https://github.com/Techaso/BeatBox-App)
-4. **Text-Editor**  [[LIVE]](https://techaso.github.io/Text-Editor)  [[CODE]](https://github.com/Techaso/Text-Editor)
-5. **Guess-The-Number-Game**  [[LIVE]](https://techaso.github.io/Guess-The-Number-Game)  [[CODE]](https://github.com/Techaso/Guess-The-Number-Game)
-6. **Research-Conclave**  [[LIVE]](https://techaso.github.io/Research-Conclave)  [[CODE]](https://github.com/Techaso/Research-Conclave)
-7. **Student-Affairs**  [[LIVE]](https://techaso.github.io/Student-Affairs)  [[CODE]](https://github.com/Techaso/Student-Affairs)
+2. **Todo-App** [[CODE]](https://github.com/Techaso/todo-vueapp)
+3. **Weather-App**  [[LIVE]](https://techaso.github.io/Weather-App)  [[CODE]](https://github.com/Techaso/Weather-App)
+4. **BeatBox-App**  [[LIVE]](https://techaso.github.io/BeatBox-App)  [[CODE]](https://github.com/Techaso/BeatBox-App)
+5. **Text-Editor**  [[LIVE]](https://techaso.github.io/Text-Editor)  [[CODE]](https://github.com/Techaso/Text-Editor)
+6. **Guess-The-Number-Game**  [[LIVE]](https://techaso.github.io/Guess-The-Number-Game)  [[CODE]](https://github.com/Techaso/Guess-The-Number-Game)
+7. **Research-Conclave**  [[LIVE]](https://techaso.github.io/Research-Conclave)  [[CODE]](https://github.com/Techaso/Research-Conclave)
+8. **Student-Affairs**  [[LIVE]](https://techaso.github.io/Student-Affairs)  [[CODE]](https://github.com/Techaso/Student-Affairs)
 
 <br>
 
