@@ -29,7 +29,7 @@ I am a full-stack software developer and musician who wholeheartedly learns from
 
 ## Projects
 1. **Faculty-Leave-Application-Portal** [[LIVE]](https://flap-techaso.000webhostapp.com)  [[CODE]](https://github.com/Techaso/FLAP)
-2. **Todo-App** [[CODE]](https://github.com/Techaso/todo-vueapp)
+2. **Todo-App**  [[LIVE]](https://todoapp-techaso.netlify.app)  [[CODE]](https://github.com/Techaso/todo-vueapp)
 3. **Weather-App**  [[LIVE]](https://weatherapp-techaso.netlify.app/)  [[CODE]](https://github.com/Techaso/Weather-App)
 4. **BeatBox-App**  [[LIVE]](https://techaso.github.io/BeatBox-App)  [[CODE]](https://github.com/Techaso/BeatBox-App)
 5. **Text-Editor**  [[LIVE]](https://techaso.github.io/Text-Editor)  [[CODE]](https://github.com/Techaso/Text-Editor)
