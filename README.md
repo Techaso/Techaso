@@ -34,8 +34,9 @@ I am a full-stack software developer and musician who wholeheartedly learns from
 4. **BeatBox-App**  [[LIVE]](https://techaso.github.io/BeatBox-App)  [[CODE]](https://github.com/Techaso/BeatBox-App)
 5. **Text-Editor**  [[LIVE]](https://techaso.github.io/Text-Editor)  [[CODE]](https://github.com/Techaso/Text-Editor)
 6. **Guess-The-Number-Game**  [[LIVE]](https://techaso.github.io/Guess-The-Number-Game)  [[CODE]](https://github.com/Techaso/Guess-The-Number-Game)
-7. **Research-Conclave**  [[LIVE]](https://techaso.github.io/Research-Conclave)  [[CODE]](https://github.com/Techaso/Research-Conclave)
-8. **Student-Affairs**  [[LIVE]](https://techaso.github.io/Student-Affairs)  [[CODE]](https://github.com/Techaso/Student-Affairs)
+7. **Users-Management-Page**  [[LIVE]](https://usersmanagementpage-techaso.netlify.app)  [[CODE]](https://github.com/Techaso/CrudOperationsOnUsers)
+8. **Research-Conclave**  [[LIVE]](https://techaso.github.io/Research-Conclave)  [[CODE]](https://github.com/Techaso/Research-Conclave)
+9. **Student-Affairs**  [[LIVE]](https://techaso.github.io/Student-Affairs)  [[CODE]](https://github.com/Techaso/Student-Affairs)
 
 <br>
 
