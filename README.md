@@ -23,7 +23,7 @@ I am a full-stack software developer and musician who wholeheartedly learns from
 - 👨🏻‍🎓&nbsp; I value experiences more than knowledge;
 - 💬&nbsp; Ask me about anything, I'll be happy to help;
 - 📫&nbsp; Best way to reach me: rkkasotiya@gmail.com;
-- 📝&nbsp; [Resume](Ramesh_Kasotiya_Resume.pdf) [Jan 24th, 2022];
+<!-- - 📝&nbsp; [Resume](Ramesh_Kasotiya_Resume.pdf) [Jan 24th, 2022]; -->
 </br>
 </br>
 
