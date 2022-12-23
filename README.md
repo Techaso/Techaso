@@ -18,8 +18,8 @@ I am a full-stack software developer and musician who wholeheartedly learns from
 - 👨🏻‍💻&nbsp; I’m currently learning Data Structures and Algorithms on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/rkkasotiya/profile);
 -->
 - 👨‍🔧&nbsp; I love to understand how everything around us is working technically. So, I'm also known as Techaso i.e. Technical Kasotiya;
-- 💬&nbsp; I know English, Hindi, Rajasthani, and Dutch (beginner);
-- 🙋🏻‍♂️&nbsp; My MBTI & Enneagram type: INFP-A, 2w3;
+- 💬&nbsp; I know English, Hindi, Rajasthani, Dutch (beginner), German (beginner);
+- 🙋🏻‍♂️&nbsp; My MBTI & Enneagram type: INFP-A, 3w2;
 - 👨🏻‍🎓&nbsp; I value experiences more than knowledge;
 - 💬&nbsp; Ask me about anything, I'll be happy to help;
 - 📫&nbsp; Best way to reach me: rkkasotiya@gmail.com;
