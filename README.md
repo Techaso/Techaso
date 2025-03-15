@@ -28,7 +28,7 @@ I am a full-stack software developer and musician who wholeheartedly learns from
 </br>
 
 ## Projects
-1.**Productively-Learn-Typing-with-AI**  [[LIVE]](https://techaso.github.io/typingtest/)  [[CODE]](https://github.com/Techaso/typingtest)
+1. **Productively-Learn-Typing-with-AI**  [[LIVE]](https://techaso.github.io/typingtest/)  [[CODE]](https://github.com/Techaso/typingtest)
 2. **Faculty-Leave-Application-Portal**  [[CODE]](https://github.com/Techaso/FLAP)
 3. **Todo-App**  [[LIVE]](https://todoapp-techaso.netlify.app)  [[CODE]](https://github.com/Techaso/todo-vueapp)
 4. **Weather-App**  [[LIVE]](https://weatherapp-techaso.netlify.app/)  [[CODE]](https://github.com/Techaso/Weather-App)
